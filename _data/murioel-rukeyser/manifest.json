@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://spampell.github.io/mrw/murioel-rukeyser/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Murioel Rukeyser" ] },
+    "label": { "en": [ "Muriel Rukeyser" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/muriel_rukeyser_i006-11-162",
         "type": "Text",
-        "label": { "en": [ "Murioel Rukeyser" ] },
+        "label": { "en": [ "Muriel Rukeyser" ] },
         "format": "text/html"
       }
     ],

@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Murioel Rukeyser
+title: Muriel Rukeyser
 manifest_name: murioel-rukeyser
 
 ---
