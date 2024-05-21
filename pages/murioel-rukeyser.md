@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Murioel Rukeyser
 manifest_name: murioel-rukeyser
 permalink: murioel-rukeyser
