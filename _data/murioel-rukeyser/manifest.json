@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://spampell.github.io/mrw/murioel-rukeyser/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Murioel Rukeyser" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/muriel_rukeyser_i006-11-162",
+        "type": "Text",
+        "label": { "en": [ "Murioel Rukeyser" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://spampell.github.io/mrw/murioel-rukeyser/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3084.0,
+        "items": [
+          {
+            "id": "https://spampell.github.io/mrw/murioel-rukeyser/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://spampell.github.io/mrw/murioel-rukeyser/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801403.us.archive.org/9/items/muriel_rukeyser_i006-11-162/muriel_rukeyser_i006-11-162.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3084.0
+                },
+                "target": "https://spampell.github.io/mrw/murioel-rukeyser/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
