@@ -16,6 +16,48 @@
         "id": "https://spampell.github.io/mrw/murioel-rukeyser/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3084.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://spampell.github.io/mrw/annotations/murioel-rukeyser-canvas-1-rukyser-reads.json",
+            "label": {
+              "none": ["Rukyser Reads"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://spampell.github.io/mrw/annotations/murioel-rukeyser-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://spampell.github.io/mrw/annotations/murioel-rukeyser-canvas-1-spaces.json",
+            "label": {
+              "none": ["Spaces"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://spampell.github.io/mrw/annotations/murioel-rukeyser-canvas-1-introducer.json",
+            "label": {
+              "none": ["Introducer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://spampell.github.io/mrw/annotations/murioel-rukeyser-canvas-1-rukyser-speaks.json",
+            "label": {
+              "none": ["Rukyser Speaks"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://spampell.github.io/mrw/murioel-rukeyser/canvas-1/paintings",
